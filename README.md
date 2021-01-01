@@ -21,6 +21,12 @@ Above Websites are responsive. To make websites more responsive bootstrap catego
 -extra large
 
 To use the Code Snippets provided by Bootstrap, we need to add the below piece of code within the HTML head element. We call it [BootstrapCDN.](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+### ToDo web application :
+
+-Taking input from user and creating multipe Todo items dynamically
+-checking Todo item and deleting Todo item
+-persisting Todo item on reloading the website using local storage
+using HTML,CSS,Javascript and JSON methods
 
 
 
