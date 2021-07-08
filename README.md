@@ -30,15 +30,15 @@ using HTML,CSS,Javascript and JSON methods
 
 
 #View the Webistes here
--[Food Munch Restaurant](https://jitendramouli.github.io/Food%20munch%20restaurant/)
--[Virtual Reality Technologies](https://jitendramouli.github.io/Virtual%20Reality%20Technologies/)
--[ToDo Application](https://jitendramouli.github.io/ToDo%20application/)
--[PortFolio page](https://jitendramouli.github.io/Portfolio%20page/)
--[Music Page](https://jitendramouli.github.io/Music%20page/)
--[Travel Website](https://jitendramouli.github.io/Travelling%20website/)
--[Podcast page](https://jitendramouli.github.io/podcast%20page/)
--[Conference page](https://jitendramouli.github.io/conference%20page/)
--[Project manager](https://jitendramouli.github.io/projectmanager/)
+*[Food Munch Restaurant](https://jitendramouli.github.io/Food%20munch%20restaurant/)
+*[Virtual Reality Technologies](https://jitendramouli.github.io/Virtual%20Reality%20Technologies/)
+*[ToDo Application](https://jitendramouli.github.io/ToDo%20application/)
+*[PortFolio page](https://jitendramouli.github.io/Portfolio%20page/)
+*[Music Page](https://jitendramouli.github.io/Music%20page/)
+*[Travel Website](https://jitendramouli.github.io/Travelling%20website/)
+*[Podcast page](https://jitendramouli.github.io/podcast%20page/)
+*[Conference page](https://jitendramouli.github.io/conference%20page/)
+*[Project manager](https://jitendramouli.github.io/projectmanager/)
 
 
 
